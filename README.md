@@ -1,6 +1,6 @@
 ![Black and Red Gradient Professional LinkedIn Banner](https://i.postimg.cc/cLS49jCM/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
 
-Hello, <img style="height:40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I am MD Mehedi Hasan 
+Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I am MD Mehedi Hasan 
 ## 😎 About:
 😄 Pronouns: He/His.  <br />
 🌱 I’m currently learning more about React Native.<br />
