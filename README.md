@@ -17,7 +17,7 @@ Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/n
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
-![React Native Expo](https://img.shields.io/badge/React_Native_Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native_Expo-000020.svg?style=for-the-badge&logo=expo&logoColor=white) 
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
